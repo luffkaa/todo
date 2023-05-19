@@ -1,0 +1,17 @@
+.add_task {
+  padding: 0;
+  height: 90px;
+  width: 100%;
+}
+
+.add_task__title {
+  height: 50px;
+}
+
+.add_task__label {
+  cursor: pointer;
+}
+
+.invalid {
+  border-color: red;
+}

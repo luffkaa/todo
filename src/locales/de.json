@@ -1,0 +1,12 @@
+{
+  "add": "Hinzufügen",
+  "addNewTask": "Neue Aufgabe hinzufügen",
+  "cancel": "Abbrechen",
+  "delete": "Löschen",
+  "deleteTask": "Aufgabe löschen",
+  "deleteTaskText": "Möchten Sie die Aufgabe wirklich löschen?",
+  "myTasks" : "Meine Aufgaben",
+  "noTasks": "Sie haben keine Aufgaben",
+  "task": "Aufgabe",
+  "taskError": "Aufgabe könnte nicht leer sein"
+}

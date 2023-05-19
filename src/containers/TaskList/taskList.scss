@@ -1,0 +1,23 @@
+.task_list {
+  padding: 0;
+  width: 100%;
+}
+
+.task_list__item {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 5px;
+  justify-content: space-between;
+  cursor: pointer;
+  height: 50px;
+}
+
+.task_list__item_data {
+  gap: 15px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+}
